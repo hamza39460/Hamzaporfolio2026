@@ -52,8 +52,8 @@ const projects = [
     ],
     tech: 'Flutter · Firebase · Riverpod · Stripe · Apple Pay · Google Pay',
     links: {
-      appStore: 'https://apps.apple.com/us/app/play-padel-matchmaking/id6471353079',
-      playStore: 'https://play.google.com/store/apps/details?id=com.play.padel',
+      appStore: 'https://apps.apple.com/us/app/house-of-padel/id6621267320?platform=iphone',
+      playStore: 'https://play.google.com/store/apps/details?id=com.bookandgo.houseofpadel',
     },
     image: houseOfPadelImage,
   },
